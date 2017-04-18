@@ -13,6 +13,15 @@ namespace MasterPage_Experiment {
     public partial class Site1 {
         
         /// <summary>
+        /// MasterBody control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl MasterBody;
+        
+        /// <summary>
         /// txtOnMasterPage control.
         /// </summary>
         /// <remarks>
@@ -20,6 +29,42 @@ namespace MasterPage_Experiment {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtOnMasterPage;
+        
+        /// <summary>
+        /// btnRed control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnRed;
+        
+        /// <summary>
+        /// btnYellow control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnYellow;
+        
+        /// <summary>
+        /// btnGreen control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnGreen;
+        
+        /// <summary>
+        /// btnNormal control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnNormal;
         
         /// <summary>
         /// ContentPlaceHolder1 control.
